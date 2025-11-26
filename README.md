@@ -1,4 +1,4 @@
-# WireGuard-Secure-Remote-Access
+# WireGuard-Secure-Remote-Access-PKSJ
 Implementasi VPN berbasis WireGuard untuk Secure Remote Access | Kelompok 7 Topik 7:
 1. Janumelah - 2201020048
 2. Mohd Allifyan Baitul Nesam - 2201020023
