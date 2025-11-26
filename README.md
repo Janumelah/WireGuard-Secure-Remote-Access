@@ -1,6 +1,5 @@
 # WireGuard-Secure-Remote-Access
-Implementasi VPN berbasis WireGuard untuk Secure Remote Access
-Kelompok 7 Topik 7:
+Implementasi VPN berbasis WireGuard untuk Secure Remote Access | Kelompok 7 Topik 7:
 1. Janumelah - 2201020048
 2. Mohd Allifyan Baitul Nesam - 2201020023
 3. Anjas Revaldo - 2201020108
