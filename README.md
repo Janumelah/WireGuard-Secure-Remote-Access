@@ -5,4 +5,4 @@ Implementasi VPN berbasis WireGuard untuk Secure Remote Access | Kelompok 7 Topi
 3. Anjas Revaldo - 2201020108
 4. ⁠Safitri Wulandari - 2201020085
 5. ⁠Danish Arya Yudhistira - 2201020110
-6. ⁠M. Aditya Egi Dwi Nata - 2201020141
+6. ⁠M. Aditya Egi Dwinata - 2201020141
